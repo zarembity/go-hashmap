@@ -1,0 +1,2 @@
+# hashmap
+Golang hashmap
